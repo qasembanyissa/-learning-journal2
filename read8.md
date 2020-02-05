@@ -1,3 +1,4 @@
+
 ## we talk about operators
 * some operators 
 *is equal to ==*
@@ -32,3 +33,6 @@ e 1 . t extContent = 'Leve 1 passed: ' + has Passed;
 * while (condition){
     statment and any think needit
 }
+=======
+
+
